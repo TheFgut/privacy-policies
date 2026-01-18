@@ -1,3 +1,8 @@
+---
+layout: page
+title: Fish Eat & Grow: Sea Survival – Privacy Policy
+---
+
 # Privacy Policy  
 ## Fish Eat & Grow: Sea Survival
 
